@@ -15,6 +15,6 @@ This is a study of batch effects!
 
 ###Analysis
 
-Report 1 [link](../docs/batch_effect1.html)
+Report 1 [link](batch_effect1.html)
 
 
